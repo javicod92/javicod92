@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Javier Codutti's GitHub stats](https://github-readme-stats.vercel.app/api?username=javicod92&show_icons=true&theme=merko)
+
 <!--
 **javicod92/javicod92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
