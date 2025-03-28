@@ -2,7 +2,7 @@
 I'm a web developer with +2 years of experience building web interfaces, passionate about creating dynamic and efficient interfaces. I specialize in React, Next.js and Astro, with a strong focus on optimization, performance and user experience. For my latest projects, I have experience with TypeScript and Tailwind CSS to enhance development efficiency. I priorize clean, modular and scalable code, ensuring that componets are reusable and easy to maintain for long-term projects.
 
 ## 🚀 About Me
-* 🎯 I'm currently working on my portfolio in Astro, optimizing translations and scalability using Astro components.
+* 🎯 I am currently working on a project, building a website for user registration and promotion of freelance services. In this project, I am learning and consolidating knowledge in Docker, node.js + Express and a micro-services architecture.
 * 🔎 I love learning new technologies and experimenting with different rendering appoaches (SSG, SSR, CSR).
 * 📚 I enjoy sharing my knowledge and looking for solutions from other developers to improve my development experience.
 
